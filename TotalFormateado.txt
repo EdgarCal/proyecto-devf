@@ -1,0 +1,26 @@
+﻿0 Todas las areas
+1 Abarrotes, alimentos, bebidas, hielo y tabaco
+  1.1 Abarrotes y alimentos
+  1.2 Bebidas, hielo y tabaco
+2 Productos textiles y calzado
+  2.1 Productos textiles y calzado
+3 Productos farmaceuticos, de perfumeria, articulos para el esparcimiento, electrodomesticos menores y aparatos de linea blanca
+  3.1 Productos farmaceuticos
+  3.2 Articulos de perfumeria, cosmeticos y joyeria
+  3.3 Discos, juguetes y articulos deportivos
+  3.4 Articulos de papeleria, libros, revistas y periodicos
+  3.5 Electrodomesticos menores y aparatos de linea blanca
+4 Materias primas agropecuarias y forestales, para la industria, y materiales de desecho
+  4.1 Materias primas agropecuarias y forestales
+  4.2 Materias primas para la industria
+  4.3 Materiales de desecho
+5 Maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general
+  5.1 Maquinaria y equipo agropecuario, forestal y para la pesca
+  5.2 Maquinaria y equipo para la industria
+  5.3 Maquinaria y equipo para los servicios y para actividades comerciales
+  5.4 Mobiliario y equipo de computo y de oficina, y de otra maquinaria y equipo de uso general
+6 Camiones y de partes y refacciones nuevas para automoviles, camionetas y camiones
+  6.1 Camiones y de partes y refacciones nuevas para automoviles, camionetas y camiones
+7 Intermediacion de comercio
+  7.1 Intermediacion, excepto a traves de internet y de otros medios electronicos
+  7.2 Intermediacion exclusivamente a traves de internet y otros medios electronicos
